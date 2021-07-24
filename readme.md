@@ -41,6 +41,7 @@
   - [Shells](#shells)
   - [Prompts](#prompts)
   - [Background setting utilities and generators](#background-setting-utilities-and-generators)
+  - [Display managers](#display-managers)
   - [resources (websites)](#resources-websites)
   - [Other](#other-1)
 - [Communities](#communities)
@@ -639,6 +640,27 @@
 - [xwinwrapl](https://github.com/ujjwal96/xwinwrap) - My fork of xwinwrap. Xwinwrap allows you to stick most of the apps to your desktop background. (C)
 - [wallpaper-generator](https://github.com/timozattol/wallpaper-generator) - A simple wallpaper generator. (python)
 - [wallsetter](https://github.com/Creator54/wallsetter) - A live wallpaper setter for linux. (shell)
+
+### Display managers
+
+#### Console
+
+- [cdm](https://github.com/evertiro/cdm)
+- [console-tdm](https://github.com/dopsi/console-tdm)
+- [emptty](https://github.com/tvrzna/emptty/)
+- [ly](https://github.com/nullgemm/ly)
+- [nodm](https://github.com/spanezz/nodm)
+- [tsbm](https://github.com/loh-tar/tbsm)
+
+#### Graphical
+
+- [entrance](https://github.com/Obsidian-StudiosInc/entrance)
+- [GDM](https://wiki.gnome.org/Projects/GDM)
+- [lightdm](https://wiki.gnome.org/Projects/GDM)
+- [lxdm](https://sourceforge.net/projects/lxdm/)
+- [sddm](https://github.com/sddm/sddm)
+
+#### Graphical
 
 ### resources (websites)
 
